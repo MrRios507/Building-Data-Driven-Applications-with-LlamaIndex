@@ -1,3 +1,4 @@
+# The purpose of nodes is to decompose documents into smaller chunks of information that are more manageable.
 from llama_index.core import Document
 from llama_index.core.schema import TextNode
 
