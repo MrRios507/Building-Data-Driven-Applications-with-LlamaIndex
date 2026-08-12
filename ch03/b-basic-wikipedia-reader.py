@@ -1,3 +1,4 @@
+# The WikipediaReader loader extracts the text from Wikipedia articles using the Wikipedia Python package.
 import wikipedia
 from llama_index.readers.wikipedia import WikipediaReader
 
